@@ -1,0 +1,588 @@
+﻿race,driver,team,duration
+BAH,Verstappen,Red Bull,1.93
+BAH,Perez,Red Bull,2.0
+BAH,Raikkonen,Alfa Romeo,2.17
+BAH,Raikkonen,Alfa Romeo,2.2
+BAH,Perez,Red Bull,2.22
+BAH,Latifi,Williams,2.23
+BAH,Bottas,Mercedes,2.24
+BAH,Russell,Williams,2.26
+BAH,Russell,Williams,2.27
+BAH,Perez,Red Bull,2.37
+BAH,Hamilton,Mercedes,2.42
+BAH,Leclerc,Ferrari,2.45
+BAH,Giovinazzi,Alfa Romeo,2.5
+BAH,Alonso,Alpine,2.51
+BAH,Ocon,Alpine,2.55
+BAH,Stroll,Aston Martin,2.56
+BAH,Bottas,Mercedes,2.57
+BAH,Gasly,AlphaTauri,2.68
+BAH,Verstappen,Red Bull,2.71
+BAH,Sainz,Ferrari,2.73
+BAH,Sainz,Ferrari,2.77
+BAH,Tsunoda,AlphaTauri,2.79
+BAH,Hamilton,Mercedes,2.92
+BAH,Vettel,Aston Martin,2.94
+BAH,Leclerc,Ferrari,2.95
+BAH,Ricciardo,McLaren,2.95
+BAH,Ocon,Alpine,3.08
+BAH,Tsunoda,AlphaTauri,3.1
+BAH,Gasly,AlphaTauri,3.19
+BAH,Ricciardo,McLaren,3.2
+BAH,Norris,McLaren,3.2
+BAH,Alonso,Alpine,3.21
+BAH,Schumacher,Haas,3.22
+BAH,Schumacher,Haas,3.64
+BAH,Stroll,Aston Martin,3.74
+BAH,Norris,McLaren,3.93
+BAH,Latifi,Williams,4.33
+BAH,Giovinazzi,Alfa Romeo,10.2
+BAH,Bottas,Mercedes,10.95
+BAH,Gasly,AlphaTauri,15.7
+EMI,Bottas,Mercedes,2.24
+EMI,Verstappen,Red Bull,2.27
+EMI,Ocon,Alpine,2.33
+EMI,Ocon,Alpine,2.43
+EMI,Raikkonen,Alfa Romeo,2.48
+EMI,Russell,Williams,2.51
+EMI,Sainz,Ferrari,2.63
+EMI,Leclerc,Ferrari,2.67
+EMI,Vettel,Aston Martin,2.69
+EMI,Ocon,Alpine,2.71
+EMI,Giovinazzi,Alfa Romeo,2.76
+EMI,Gasly,AlphaTauri,2.78
+EMI,Alonso,Alpine,2.86
+EMI,Norris,McLaren,2.87
+EMI,Tsunoda,AlphaTauri,3.06
+EMI,Stroll,Aston Martin,3.08
+EMI,Mazepin,Haas,3.28
+EMI,Mazepin,Haas,3.35
+EMI,Vettel,Aston Martin,3.43
+EMI,Gasly,AlphaTauri,3.75
+EMI,Schumacher,Haas,4.03
+EMI,Hamilton,Mercedes,4.04
+EMI,Giovinazzi,Alfa Romeo,4.72
+EMI,Ricciardo,McLaren,6.41
+EMI,Hamilton,Mercedes,10.0
+EMI,Vettel,Aston Martin,10.27
+EMI,Perez,Red Bull,16.94
+EMI,Schumacher,Haas,21.38
+POR,Verstappen,Red Bull,1.98
+POR,Stroll,Aston Martin,2.08
+POR,Sainz,Ferrari,2.26
+POR,Gasly,AlphaTauri,2.26
+POR,Tsunoda,AlphaTauri,2.37
+POR,Verstappen,Red Bull,2.38
+POR,Alonso,Alpine,2.41
+POR,Latifi,Williams,2.42
+POR,Ocon,Alpine,2.5
+POR,Giovinazzi,Alfa Romeo,2.54
+POR,Hamilton,Mercedes,2.58
+POR,Perez,Red Bull,2.69
+POR,Bottas,Mercedes,2.71
+POR,Russell,Williams,2.79
+POR,Bottas,Mercedes,2.84
+POR,Vettel,Aston Martin,2.92
+POR,Mazepin,Haas,2.93
+POR,Mazepin,Haas,2.93
+POR,Schumacher,Haas,3.14
+POR,Norris,McLaren,3.3
+POR,Leclerc,Ferrari,3.48
+POR,Ricciardo,McLaren,4.88
+ESP,Stroll,Aston Martin,2.16
+ESP,Perez,Red Bull,2.18
+ESP,Latifi,Williams,2.21
+ESP,Leclerc,Ferrari,2.24
+ESP,Bottas,Mercedes,2.25
+ESP,Verstappen,Red Bull,2.26
+ESP,Sainz,Ferrari,2.27
+ESP,Giovinazzi,Alfa Romeo,2.3
+ESP,Raikkonen,Alfa Romeo,2.31
+ESP,Stroll,Aston Martin,2.35
+ESP,Hamilton,Mercedes,2.37
+ESP,Vettel,Aston Martin,2.38
+ESP,Latifi,Williams,2.5
+ESP,Russell,Williams,2.52
+ESP,Alonso,Alpine,2.56
+ESP,Ricciardo,McLaren,2.6
+ESP,Norris,McLaren,2.67
+ESP,Sainz,Ferrari,2.7
+ESP,Hamilton,Mercedes,2.71
+ESP,Schumacher,Haas,2.74
+ESP,Bottas,Mercedes,2.76
+ESP,Leclerc,Ferrari,2.77
+ESP,Ricciardo,McLaren,3.06
+ESP,Perez,Red Bull,3.18
+ESP,Latifi,Williams,3.28
+ESP,Norris,McLaren,3.3
+ESP,Ocon,Alpine,3.38
+ESP,Mazepin,Haas,3.45
+ESP,Mazepin,Haas,3.5
+ESP,Vettel,Aston Martin,4.09
+ESP,Verstappen,Red Bull,4.25
+ESP,Alonso,Alpine,4.29
+ESP,Russell,Williams,4.35
+ESP,Schumacher,Haas,4.87
+ESP,Gasly,AlphaTauri,6.78
+ESP,Gasly,AlphaTauri,8.7
+ESP,Giovinazzi,Alfa Romeo,35.19
+MCO,Verstappen,Red Bull,2.02
+MCO,Hamilton,Mercedes,2.25
+MCO,Stroll,Aston Martin,2.27
+MCO,Norris,McLaren,2.29
+MCO,Latifi,Williams,2.32
+MCO,Ocon,Alpine,2.35
+MCO,Alonso,Alpine,2.37
+MCO,Raikkonen,Alfa Romeo,2.41
+MCO,Russell,Williams,2.48
+MCO,Tsunoda,AlphaTauri,2.74
+MCO,Sainz,Ferrari,2.78
+MCO,Schumacher,Haas,2.8
+MCO,Giovinazzi,Alfa Romeo,2.86
+MCO,Hamilton,Mercedes,2.86
+MCO,Perez,Red Bull,2.89
+MCO,Ricciardo,McLaren,3.05
+MCO,Gasly,AlphaTauri,3.09
+MCO,Vettel,Aston Martin,3.21
+MCO,Mazepin,Haas,3.3
+AZE,Verstappen,Red Bull,1.98
+AZE,Raikkonen,Alfa Romeo,2.13
+AZE,Russell,Williams,2.13
+AZE,Russell,Williams,2.28
+AZE,Leclerc,Ferrari,2.33
+AZE,Giovinazzi,Alfa Romeo,2.37
+AZE,Alonso,Alpine,2.42
+AZE,Vettel,Aston Martin,2.44
+AZE,Sainz,Ferrari,2.47
+AZE,Ricciardo,McLaren,2.48
+AZE,Gasly,AlphaTauri,2.52
+AZE,Giovinazzi,Alfa Romeo,2.77
+AZE,Alonso,Alpine,2.77
+AZE,Tsunoda,AlphaTauri,2.79
+AZE,Bottas,Mercedes,2.79
+AZE,Norris,McLaren,3.05
+AZE,Schumacher,Haas,3.68
+AZE,Latifi,Williams,4.0
+AZE,Mazepin,Haas,4.14
+AZE,Schumacher,Haas,4.28
+AZE,Mazepin,Haas,4.29
+AZE,Perez,Red Bull,4.36
+AZE,Schumacher,Haas,4.61
+AZE,Hamilton,Mercedes,4.69
+AZE,Mazepin,Haas,6.92
+FRA,Perez,Red Bull,2.04
+FRA,Hamilton,Mercedes,2.2
+FRA,Ricciardo,McLaren,2.32
+FRA,Latifi,Williams,2.33
+FRA,Verstappen,Red Bull,2.36
+FRA,Russell,Williams,2.44
+FRA,Ocon,Alpine,2.51
+FRA,Bottas,Mercedes,2.55
+FRA,Verstappen,Red Bull,2.56
+FRA,Norris,McLaren,2.62
+FRA,Tsunoda,AlphaTauri,2.71
+FRA,Sainz,Ferrari,2.73
+FRA,Giovinazzi,Alfa Romeo,2.98
+FRA,Gasly,AlphaTauri,3.13
+FRA,Stroll,Aston Martin,3.24
+FRA,Leclerc,Ferrari,3.33
+FRA,Mazepin,Haas,3.38
+FRA,Alonso,Alpine,3.72
+FRA,Leclerc,Ferrari,3.72
+FRA,Vettel,Aston Martin,3.98
+FRA,Schumacher,Haas,4.06
+FRA,Raikkonen,Alfa Romeo,4.11
+AUT1,Verstappen,Red Bull,2.09
+AUT1,Stroll,Aston Martin,2.22
+AUT1,Alonso,Alpine,2.24
+AUT1,Sainz,Ferrari,2.26
+AUT1,Hamilton,Mercedes,2.27
+AUT1,Perez,Red Bull,2.28
+AUT1,Giovinazzi,Alfa Romeo,2.38
+AUT1,Norris,McLaren,2.38
+AUT1,Tsunoda,AlphaTauri,2.39
+AUT1,Ricciardo,McLaren,2.49
+AUT1,Ocon,Alpine,2.57
+AUT1,Bottas,Mercedes,2.64
+AUT1,Vettel,Aston Martin,2.7
+AUT1,Raikkonen,Alfa Romeo,2.73
+AUT1,Hamilton,Mercedes,2.79
+AUT1,Leclerc,Ferrari,3.06
+AUT1,Latifi,Williams,3.44
+AUT1,Schumacher,Haas,3.57
+AUT1,Mazepin,Haas,3.76
+AUT1,Perez,Red Bull,4.85
+AUT1,Latifi,Williams,6.46
+AUT1,Leclerc,Ferrari,9.75
+AUT1,Russell,Williams,18.37
+AUT1,Russell,Williams,27.39
+AUT2,Verstappen,Red Bull,2.17
+AUT2,Gasly,AlphaTauri,2.21
+AUT2,Verstappen,Red Bull,2.25
+AUT2,Hamilton,Mercedes,2.26
+AUT2,Giovinazzi,Alfa Romeo,2.28
+AUT2,Ricciardo,McLaren,2.33
+AUT2,Leclerc,Ferrari,2.36
+AUT2,Vettel,Aston Martin,2.36
+AUT2,Bottas,Mercedes,2.44
+AUT2,Vettel,Aston Martin,2.46
+AUT2,Tsunoda,AlphaTauri,2.56
+AUT2,Sainz,Ferrari,2.64
+AUT2,Latifi,Williams,2.73
+AUT2,Stroll,Aston Martin,2.75
+AUT2,Stroll,Aston Martin,2.77
+AUT2,Russell,Williams,2.85
+AUT2,Hamilton,Mercedes,2.87
+AUT2,Perez,Red Bull,3.1
+AUT2,Mazepin,Haas,3.13
+AUT2,Schumacher,Haas,3.18
+AUT2,Raikkonen,Alfa Romeo,3.23
+AUT2,Gasly,AlphaTauri,3.78
+AUT2,Alonso,Alpine,4.28
+AUT2,Mazepin,Haas,4.38
+AUT2,Norris,McLaren,7.87
+AUT2,Tsunoda,AlphaTauri,8.11
+AUT2,Giovinazzi,Alfa Romeo,8.35
+GBR,Latifi,Williams,2.1
+GBR,Perez,Red Bull,2.14
+GBR,Stroll,Aston Martin,2.23
+GBR,Giovinazzi,Alfa Romeo,2.24
+GBR,Russell,Williams,2.26
+GBR,Vettel,Aston Martin,2.27
+GBR,Bottas,Mercedes,2.28
+GBR,Perez,Red Bull,2.31
+GBR,Raikkonen,Alfa Romeo,2.34
+GBR,Lerclerc,Ferrari,2.6
+GBR,Gasly,AlphaTauri,2.71
+GBR,Ricciardo,McLaren,2.84
+GBR,Gasly,AlphaTauri,3.05
+GBR,Ocon,Alpine,3.21
+GBR,Mazepin,Haas,3.35
+GBR,Schumacher,Haas,3.57
+GBR,Perez,Red Bull,3.71
+GBR,Tsunoda,AlphaTauri,3.89
+GBR,Alonso,Alpine,4.31
+GBR,Norris,McLaren,6.09
+GBR,Sainz,Ferrari,12.34
+GBR,Hamilton,Mercedes,14.27
+HUN,Verstappen,Red Bull,1.88
+HUN,Verstappen,Red Bull,1.96
+HUN,Raikkonen,Alfa Romeo,2.18
+HUN,Ocon,Alpine,2.19
+HUN,Hamilton,Mercedes,2.23
+HUN,Gasly,AlphaTauri,2.34
+HUN,Ricciardo,McLaren,2.36
+HUN,Hamilton,Mercedes,2.37
+HUN,Ocon,Alpine,2.37
+HUN,Vettel,Aston Martin,2.4
+HUN,Gasly,AlphaTauri,2.43
+HUN,Hamilton,Mercedes,2.49
+HUN,Alonso,Alpine,2.52
+HUN,Verstappen,Red Bull,2.52
+HUN,Tsunoda,AlphaTauri,2.58
+HUN,Ricciardo,McLaren,2.59
+HUN,Raikkonen,Alfa Romeo,2.63
+HUN,Verstappen,Red Bull,2.66
+HUN,Russell,Williams,2.69
+HUN,Gasly,AlphaTauri,2.69
+HUN,Tsunoda,AlphaTauri,2.69
+HUN,Giovinazzi,Alfa Romeo,2.72
+HUN,Sainz,Ferrari,2.76
+HUN,Latifi,Williams,2.92
+HUN,Alonso,Alpine,3.03
+HUN,Russell,Williams,3.08
+HUN,Schumacher,Haas,3.31
+HUN,Vettel,Aston Martin,3.35
+HUN,Mazepin,Haas,3.56
+HUN,Sainz,Ferrari,3.8
+HUN,Latifi,Williams,3.92
+HUN,Schumacher,Haas,4.4
+HUN,Giovinazzi,Alfa Romeo,5.07
+HUN,Giovinazzi,Alfa Romeo,8.62
+HUN,Giovinazzi,Alfa Romeo,9.79
+HUN,Norris,McLaren,16.0
+HUN,Raikkonen,Alfa Romeo,17.34
+NED,Verstappen,Red Bull,2.15
+NED,Bottas,Mercedes,2.18
+NED,Alonso,Alpine,2.35
+NED,Vettel,Aston Martin,2.36
+NED,Vettel,Aston Martin,2.43
+NED,Russell,Williams,2.44
+NED,Giovinazzi,Alfa Romeo,2.49
+NED,Perez,Red Bull,2.51
+NED,Hamilton,Mercedes,2.53
+NED,Perez,Red Bull,2.55
+NED,Verstappen,Red Bull,2.74
+NED,Ocon,Alpine,2.83
+NED,Stroll,Aston Martin,2.87
+NED,Ricciardo,McLaren,2.97
+NED,Gasly,AlphaTauri,2.99
+NED,Leclerc,Ferrari,3.02
+NED,Kubica,Alfa Romeo,3.03
+NED,Giovinazzi,Alfa Romeo,3.29
+NED,Mazepin,Haas,3.44
+NED,Latifi,Williams,3.56
+NED,Hamilton,Mercedes,3.57
+NED,Sainz,Ferrari,3.6
+NED,Tsunoda,AlphaTauri,3.63
+NED,Hamilton,Mercedes,3.68
+NED,Norris,McLaren,4.07
+NED,Bottas,Mercedes,5.09
+NED,Schumacher,Haas,8.03
+NED,Russell,Williams,8.44
+NED,Schumacher,Haas,18.72
+ITA,Ricciardo,McLaren,2.4
+ITA,Perez,Red Bull,2.49
+ITA,Russell,Williams,2.56
+ITA,Sainz,Ferrari,2.61
+ITA,Kubica,Alfa Romeo,2.71
+ITA,Norris,McLaren,2.73
+ITA,Bottas,Mercedes,2.76
+ITA,Leclerc,Ferrari,2.84
+ITA,Latifi,Williams,2.98
+ITA,Schumacher,Haas,3.1
+ITA,Alonso,Alpine,3.15
+ITA,Mazepin,Haas,3.3
+ITA,Stroll,Aston Martin,3.37
+ITA,Mazepin,Haas,3.41
+ITA,Vettel,Aston Martin,3.73
+ITA,Hamilton,Mercedes,4.22
+ITA,Vettel,Aston Martin,4.48
+ITA,Giovinazzi,Alfa Romeo,8.71
+ITA,Ocon,Alpine,8.89
+ITA,Mazepin,Haas,9.09
+ITA,Verstappen,Red Bull,11.1
+ITA,Giovinazzi,Alfa Romeo,11.48
+RUS,Bottas,Mercedes,2.45
+RUS,Perez,Red Bull,2.46
+RUS,Gasly,AlphaTauri,2.5
+RUS,Bottas,Mercedes,2.51
+RUS,Leclerc,Ferrari,2.6
+RUS,Verstappen,Red Bull,2.61
+RUS,Vettel,Aston Martin,2.66
+RUS,Gasly,AlphaTauri,2.68
+RUS,Alonso,Alpine,2.71
+RUS,Hamilton,Mercedes,2.73
+RUS,Sainz,Ferrari,2.75
+RUS,Tsunoda,AlphaTauri,2.81
+RUS,Hamilton,Mercedes,2.81
+RUS,Raikkonen,Alfa Romeo,2.86
+RUS,Tsunoda,AlphaTauri,2.88
+RUS,Giovinazzi,Alfa Romeo,2.89
+RUS,Ocon,Alpine,2.92
+RUS,Raikkonen,Alfa Romeo,2.98
+RUS,Norris,McLaren,2.98
+RUS,Schumacher,Haas,3.01
+RUS,Alonso,Alpine,3.02
+RUS,Stroll,Aston Martin,3.22
+RUS,Vettel,Aston Martin,3.22
+RUS,Latifi,Williams,3.27
+RUS,Mazepin,Haas,3.27
+RUS,Norris,McLaren,3.36
+RUS,Ocon,Alpine,3.42
+RUS,Verstappen,Red Bull,3.5
+RUS,Ricciardo,McLaren,3.59
+RUS,Sainz,Ferrari,3.6
+RUS,Russell,Williams,3.68
+RUS,Tsunoda,AlphaTauri,3.7
+RUS,Giovinazzi,Alfa Romeo,4.58
+RUS,Leclerc,Ferrari,4.85
+RUS,Russell,Williams,4.85
+RUS,Mazepin,Haas,6.12
+RUS,Ricciardo,McLaren,7.05
+RUS,Perez,Red Bull,8.96
+RUS,Stroll,Aston Martin,15.45
+TUR,Verstappen,Red Bull,2.15
+TUR,Vettel,Aston Martin,2.28
+TUR,Hamilton,Mercedes,2.36
+TUR,Bottas,Mercedes,2.52
+TUR,Perez,Red Bull,2.56
+TUR,Giovinazzi,Alfa Romeo,2.7
+TUR,Ricciardo,McLaren,2.81
+TUR,Raikkonen,Alfa Romeo,2.9
+TUR,Norris,McLaren,3.1
+TUR,Leclerc,Ferrari,3.1
+TUR,Mazepin,Haas,3.14
+TUR,Tsunoda,AlphaTauri,3.18
+TUR,Russell,Williams,3.22
+TUR,Vettel,Aston Martin,3.24
+TUR,Schumacher,Haas,3.33
+TUR,Latifi,Williams,3.58
+TUR,Sainz,Ferrari,8.12
+TUR,Alonso,Alpine,8.89
+TUR,Gasly,AlphaTauri,9.28
+TUR,Stroll,Aston Martin,15.88
+USA,Sainz,Ferrari,2.24
+USA,Stroll,Aston Martin,2.27
+USA,Alonso,Alpine,2.29
+USA,Bottas,Mercedes,2.32
+USA,Giovinazzi,Alfa Romeo,2.34
+USA,Verstappen,Red Bull,2.4
+USA,Perez,Red Bull,2.43
+USA,Hamilton,Mercedes,2.44
+USA,Tsunoda,AlphaTauri,2.45
+USA,Russell,Williams,2.57
+USA,Giovinazzi,Alfa Romeo,2.57
+USA,Alonso,Alpine,2.58
+USA,Stroll,Aston Martin,2.6
+USA,Leclerc,Ferrari,2.62
+USA,Vettel,Aston Martin,2.63
+USA,Latifi,Williams,2.64
+USA,Schumacher,Haas,2.66
+USA,Gasly,AlphaTauri,2.69
+USA,Ricciardo,McLaren,2.7
+USA,Bottas,Mercedes,2.72
+USA,Schumacher,Haas,2.75
+USA,Alonso,Alpine,2.77
+USA,Mazepin,Haas,2.77
+USA,Tsunoda,AlphaTauri,2.77
+USA,Leclerc,Ferrari,2.78
+USA,Ocon,Alpine,2.83
+USA,Verstappen,Red Bull,2.87
+USA,Hamilton,Mercedes,2.89
+USA,Mazepin,Haas,2.89
+USA,Ricciardo,McLaren,2.92
+USA,Raikkonen,Alfa Romeo,3.13
+USA,Raikkonen,Alfa Romeo,3.23
+USA,Norris,McLaren,3.24
+USA,Perez,Red Bull,3.77
+USA,Vettel,Aston Martin,3.83
+USA,Russell,Williams,3.85
+USA,Norris,McLaren,4.21
+USA,Sainz,Ferrari,5.65
+USA,Mazepin,Haas,9.0
+USA,Latifi,Williams,11.37
+USA,Ocon,Alpine,19.85
+MEX,Russell,Williams,2.17
+MEX,Verstappen,Red Bull,2.27
+MEX,Sainz,Ferrari,2.33
+MEX,Leclerc,Ferrari,2.38
+MEX,Perez,Red Bull,2.38
+MEX,Hamilton,Mercedes,2.48
+MEX,Bottas,Mercedes,2.5
+MEX,Raikkonen,Alfa Romeo,2.59
+MEX,Vettel,Aston Martin,2.65
+MEX,Bottas,Mercedes,2.72
+MEX,Giovinazzi,Alfa Romeo,2.74
+MEX,Gasly,AlphaTauri,2.75
+MEX,Norris,McLaren,2.89
+MEX,Ricciardo,McLaren,2.91
+MEX,Latifi,Williams,3.04
+MEX,Ocon,Alpine,3.32
+MEX,Mazepin,Haas,3.44
+MEX,Latifi,Williams,3.81
+MEX,Stroll,Aston Martin,3.92
+MEX,Alonso,Alpine,4.52
+MEX,Mazepin,Haas,5.11
+MEX,Bottas,Mercedes,6.3
+MEX,Stroll,Aston Martin,6.77
+MEX,Bottas,Mercedes,11.73
+MEX,Ricciardo,McLaren,17.54
+BRA,Leclerc,Ferrari,2.21
+BRA,Hamilton,Mercedes,2.36
+BRA,Hamilton,Mercedes,2.36
+BRA,Verstappen,Red Bull,2.39
+BRA,Perez,Red Bull,2.4
+BRA,Sainz,Ferrari,2.41
+BRA,Verstappen,Red Bull,2.42
+BRA,Vettel,Aston Martin,2.46
+BRA,Bottas,Mercedes,2.47
+BRA,Ricciardo,McLaren,2.49
+BRA,Latifi,Williams,2.51
+BRA,Perez,Red Bull,2.51
+BRA,Raikkonen,Alfa Romeo,2.53
+BRA,Giovinazzi,Alfa Romeo,2.55
+BRA,Latifi,Williams,2.57
+BRA,Russell,Williams,2.58
+BRA,Bottas,Mercedes,2.62
+BRA,Leclerc,Ferrari,2.69
+BRA,Mazepin,Haas,2.87
+BRA,Sainz,Ferrari,2.88
+BRA,Perez,Red Bull,2.89
+BRA,Russell,Williams,2.89
+BRA,Gasly,AlphaTauri,2.9
+BRA,Gasly,AlphaTauri,2.96
+BRA,Raikkonen,Alfa Romeo,3.0
+BRA,Giovinazzi,Alfa Romeo,3.19
+BRA,Ocon,Alpine,3.19
+BRA,Norris,McLaren,3.83
+BRA,Vettel,Aston Martin,3.86
+BRA,Alonso,Alpine,4.07
+BRA,Schumacher,Haas,4.11
+BRA,Stroll,Aston Martin,4.37
+BRA,Schumacher,Haas,5.21
+BRA,Norris,McLaren,5.99
+BRA,Tsunoda,AlphaTauri,11.04
+BRA,Tsunoda,AlphaTauri,14.85
+BRA,Schumacher,Haas,17.74
+QAT,Verstappen,Red Bull,2.19
+QAT,Sainz,Ferrari,2.29
+QAT,Verstappen,Red Bull,2.29
+QAT,Hamilton,Mercedes,2.31
+QAT,Ricciardo,McLaren,2.32
+QAT,Raikkonen,Alfa Romeo,2.35
+QAT,Hamilton,Mercedes,2.37
+QAT,Norris,McLaren,2.4
+QAT,Giovinazzi,Alfa Romeo,2.45
+QAT,Leclerc,Ferrari,2.47
+QAT,Gasly,AlphaTauri,2.48
+QAT,Ocon,Alpine,2.5
+QAT,Perez,Red Bull,2.55
+QAT,Tsunoda,AlphaTauri,2.62
+QAT,Perez,Red Bull,2.71
+QAT,Schumacher,Haas,2.72
+QAT,Verstappen,Red Bull,2.72
+QAT,Alonso,Alpine,2.76
+QAT,Latifi,Williams,2.85
+QAT,Russell,Williams,2.88
+QAT,Gasly,AlphaTauri,3.04
+QAT,Raikkonen,Alfa Romeo,3.07
+QAT,Giovinazzi,Alfa Romeo,3.07
+QAT,Mazepin,Haas,3.08
+QAT,Stroll,Aston Martin,3.23
+QAT,Norris,McLaren,3.37
+QAT,Vettel,Aston Martin,3.42
+QAT,Tsunoda,AlphaTauri,3.66
+QAT,Russell,Williams,8.59
+QAT,Bottas,Mercedes,11.49
+SAU,Perez,Red Bull,2.2
+SAU,Leclerc,Ferrari,2.48
+SAU,Alonso,Alpine,2.48
+SAU,Hamilton,Mercedes,2.49
+SAU,Russell,Williams,2.5
+SAU,Norris,McLaren,2.99
+SAU,Alonso,Alpine,3.24
+SAU,Bottas,Mercedes,3.49
+SAU,Latifi,Williams,6.44
+SAU,Stroll,Aston Martin,8.94
+SAU,Tsunoda,AlphaTauri,9.78
+SAU,Raikkonen,Alfa Romeo,16.09
+UAE,Verstappen,Red Bull,2.12
+UAE,Leclerc,Ferrari,2.22
+UAE,Perez,Red Bull,2.31
+UAE,Latifi,Williams,2.38
+UAE,Alonso,Alpine,2.43
+UAE,Perez,Red Bull,2.43
+UAE,Norris,McLaren,2.44
+UAE,Ricciardo,McLaren,2.44
+UAE,Hamilton,Mercedes,2.45
+UAE,Verstappen,Red Bull,2.46
+UAE,Bottas,Mercedes,2.48
+UAE,Vettel,Aston Martin,2.51
+UAE,Perez,Red Bull,2.6
+UAE,Verstappen,Red Bull,2.62
+UAE,Ocon,Alpine,2.74
+UAE,Sainz,Ferrari,2.85
+UAE,Gasly,AlphaTauri,2.94
+UAE,Giovinazzi,Alfa Romeo,3.02
+UAE,Ricciardo,McLaren,3.12
+UAE,Stroll,Aston Martin,3.14
+UAE,Stroll,Aston Martin,3.17
+UAE,Schumacher,Haas,3.21
+UAE,Tsunoda,AlphaTauri,3.22
+UAE,Raikkonen,Alfa Romeo,3.24
+UAE,Norris,McLaren,3.36
+UAE,Schumacher,Haas,3.39
+UAE,Leclerc,Ferrari,3.44
+UAE,Gasly,AlphaTauri,3.46
+UAE,Tsunoda,AlphaTauri,3.5
